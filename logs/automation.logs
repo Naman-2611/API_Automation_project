@@ -1,0 +1,8 @@
+21:25:15.246 [main] INFO  - *********creating user*******
+21:25:18.294 [main] INFO  - *********user created*******
+21:25:18.297 [main] INFO  - *********Reading user info*******
+21:25:19.411 [main] INFO  - *********user info displayed*******
+21:25:19.412 [main] INFO  - *********user info updating*******
+21:25:21.661 [main] INFO  - *********user updated info*******
+21:25:21.662 [main] INFO  - *********Deleteing the user info*******
+21:25:22.825 [main] INFO  - *********user info deleted*******
